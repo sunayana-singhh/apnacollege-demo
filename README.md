@@ -1,5 +1,5 @@
 # apnacollege-demo
 This is my first repository
 <br>
-Author- Sunayana P
+Author- Sunayana P (Learning from apna college)
 
